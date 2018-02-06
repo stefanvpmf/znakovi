@@ -7,6 +7,7 @@ public class Znak2 extends JPanel {
 		
 		super.paintComponent(g);
 		
+		//Prvi komentar u ovoj klasi
 		g.setColor(Color.RED);
 		int xs[]={140,500,320};
 		int ys[]={80,80,400};
