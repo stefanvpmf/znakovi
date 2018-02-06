@@ -7,7 +7,7 @@ public class Znak3 extends JPanel {
 		
 		super.paintComponent(g);
 		
-		
+		//Neki komentar
 		int[] xs2={118,320,522,320};
 		int[] ys2={240,38,240,442};
 		g.setColor(Color.BLACK);
