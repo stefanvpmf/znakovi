@@ -26,5 +26,6 @@ public class ZnakOkrugli extends JPanel {
 		prozor.getContentPane().add(new ZnakOkrugli());
 
 	}
+	naskdasdmk
 
 }
