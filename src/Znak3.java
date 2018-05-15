@@ -17,6 +17,7 @@ public class Znak3 extends JPanel {
 		g.setColor(Color.yellow);
 		g.fillPolygon(xs,ys,4);
 		
+		//novi komentar
 		//crtanje strelice
 		g.setColor(Color.BLACK);
 		g.fillRect(180, 220, 220 , 40);
